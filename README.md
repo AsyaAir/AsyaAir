@@ -45,6 +45,7 @@ Frontend Developer roles and collaboration opportunities.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![BEM](https://img.shields.io/badge/-BEM-000000?style=flat-square&logo=bem&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-4E9F3D?style=flat-square&logo=agile&logoColor=white)
 </div>
 
