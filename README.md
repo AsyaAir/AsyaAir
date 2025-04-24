@@ -43,6 +43,7 @@ Frontend Developer roles and collaboration opportunities.
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-025F5C?style=flat-square&logo=json&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![BEM](https://img.shields.io/badge/-BEM-000000?style=flat-square&logo=bem&logoColor=white)
@@ -57,6 +58,8 @@ Frontend Developer roles and collaboration opportunities.
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-111827?style=flat-square&logo=vercel&logoColor=white)
 </div>
 
 <h2 align="center">📊 GitHub Stats</h2>
